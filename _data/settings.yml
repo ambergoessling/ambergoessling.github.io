@@ -1,6 +1,6 @@
 basic_settings:
-  site_title: Index
-  site_tagline: A minimal, fixed sidebar grid portfolio Jekyll theme.
+  site_title: Amber Goessling UX Portfolio
+  site_tagline: A collection of UX projects.
   favicon_image: /images/favicon.png
 
 header_settings:
@@ -11,6 +11,8 @@ menu_settings:
   menu_items:
     - title: 'Projects'
       url: '/'
+    - title: 'Mission Statement'
+      url: '/mission'
     - title: 'Blog'
       url: '/blog/'
     - title: 'About'
