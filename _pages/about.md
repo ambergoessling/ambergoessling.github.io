@@ -2,10 +2,10 @@
 title: About Me
 subtitle: 
 description: Amber Goessling's about page
-featured_image: /images/AmberGoesslingGogh.jpg
+featured_image: 'images/AmberGoesslingGogh.jpg'
 ---
 
-![](/images/AmberGoesslingGogh.jpg)
+![](images\AmberGoesslingGogh.jpg)
 
 ## Hello There -- I'm Amber Goessling
 
