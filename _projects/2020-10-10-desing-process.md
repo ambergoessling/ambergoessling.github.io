@@ -6,163 +6,40 @@ description: UXflowcharts
 featured_image: 'images\UXflowchart.JPG'
 ---
 
-## Skateboarding Catalogue Collection (and Forum) Project
-
-[Overview](#overview)
-
-[Design Cycle](#design-cycle)
-
-[Style Guide](#style-guide)
-
-[Personas](#personas)
-
-[Sketch Wireframe Examples](#sketch-wireframe-examples)
-
-[Sitemap](#sitemap)
-
-[Workflows](#workflows)
-
-[Wireframes](#wireframes)
-
-[Mockups](#mockups)
-
-[Prototype](#prototype)
-
-[Testing](#testing)
-
-
-
 ## Overview
 
-This project was born out of a love for skateboard deck collecting, and trying to keep track of when decks would go on sale through multiple sites. When creating this website, I did research on other skateboarding websites like, Sector 9, Vans, Primitive, and many more. 
+The design process is so much more than following point A to B. Sometimes you take twists, turns, and really you use the process as a guideline to make sure you have what the product needs to be successful. Designing products, websites, and projects is iterative. It takes persistance, determination, and empathy to make sure the user is happy with what the product is offering. Having a product be intuitive is an art by itself, and takes quite a bit of hard work from the design team. 
 
 ## Design Cycle
 
-<!---![UX FLowchart](/images/UXflowchart.JPG)--->
+![UX FLowchart](/images/UXflowchart.JPG)-
 
-<img src="/images/UXflowchart.JPG" alt="UX FLowchart" style="max-width: 900px">
+<!---<img src="/images/UXflowchart.JPG" alt="UX FLowchart" style="max-width: 900px">--->
 
-## Style Guide
+## Empathize
 
-The style guide is a beginning sample of assets and color schemes used in producing this product.
+Who is our customer/user? What is the problem we need to solve or gap in knowledge we need to fill? 
 
-<!---![Style Guide](/images/Styleguide.png)--->
+## Discovery
 
-<img src="/images/Styleguide.png" alt="style guide" style="max-width: 900px">
+Is there already a solution to the problem? Is there compitition or standards involving the solution already? What can we learn about the problem vs the solution? This is the time to take out surveys, do interviews, and interact with people to see what they want out of the product.
 
-## Personas
+## Define
 
-## Sketch Wireframe Examples
+Now we have all this data, what can we do with it? We sift through the data and come up with an elegant solution to the problem, We establish the steps needed to fulfill the needs of the solution. This is a stage to do workflows, sketches, and charters.
 
-Here are examples of the first few pages of the design process of brainstorming. Designing what pages would look like for the layout, and describing light functionality.
+## Design
 
-<!---![Sketch Wireframe Examples](/images/sketchWireframeExample.jpg)--->
-
-<img src="/images/sketchWireframeExample.jpg" alt="Sketch Wireframe Examples" style="max-width: 900px">
-
-## Sitemap
-
-Every website needs a basic sitemap (at least behind the scenes). Honestly, I used this to help organize my thoughts for the workflows and make sure I had all the pages accounted for.
-
-<!---![Sitemap](/images/Sitemap.JPG)--->
-
-<img src="/images/Sitemap.JPG" alt="Sitemap" style="max-width: 900px">
-
-## Workflows
-
-Users can have multiple workflows on this site. The diagram below highlights the "happy path" and intended workflows. When this product gets more testing in the prototyping phase, then we can see which workflows feel most intuitive for users. 
-
-<!---![User Workflows](/images/UserWorkflows.jpg)--->
-
-<img src="/images/UserWorkflows.jpg" alt="User Workflows" style="max-width: 900px">
-
-## Wireframes
-
-<!---![Wireframes](/images/wireframeCollection.png)--->
-
-<img src="/images/wireframeCollection.png" alt="Wireframes" style="max-width: 900px">
-
-## Mockups
-
-<!---![Mockups](/images/mockupCollection.png)--->
-
-<img src="/images/mockupCollection.png" alt="Mockups" style="max-width: 900px">
+Now we have a better idea of what we want our product to do and feel like, we can design the user interface. Taking the sketches from the Define stage, we elaborate on them, create personas from data,  user journeys, wireframes, iterate, make mockups, iterate, and repeat this process with stakeholders until they are satisfied that we can move on to an interactive prototype.
 
 ## Prototype
-Seen here is a prototype of all the mockups interacting together. 
-<iframe src="https://y9cg5q.axshare.com" width="2000px" height="1080px">
 
-You can also add blockquotes, which are shown at a larger width to help break up the layout and draw attention to key parts of your content:
+A prototype is an interactive, well defined and polished, website/product that users/stakeholders can test. Iteration is still happening at this step as we adjust for workflows and additional testing. This is where A/B testing, eye tracking, and testing observation can be used to make sure we have what is needed before it is fully programmed and hooked up.
 
-> “Simple can be harder than complex: You have to work hard to get your thinking clean to make it simple. But it’s worth it in the end because once you get there, you can move mountains.”
+## Product
 
-The theme also supports markdown tables:
+In the graphic above, moving to the Product stage means that it is ready for further development (programming). At this stage, the product is still being tested and can continue to be tested after launch.
 
-| Item                 | Author        | Supports tables? | Price |
-|----------------------|---------------|------------------|-------|
-| Duet Jekyll Theme    | Jekyll Themes | Yes              | $49   |
-| Index Jekyll Theme   | Jekyll Themes | Yes              | $49   |
-| Journal Jekyll Theme | Jekyll Themes | Yes              | $49   |
+## The Aftermath
 
-And footnotes[^1], which link to explanations[^2] at the bottom of the page[^3].
-
-[^1]: Beautiful modern, minimal theme design.
-[^2]: Powerful features to show off your work.
-[^3]: Maintained and supported by the theme developer.
-
-You can throw in some horizontal rules too:
-
----
-
-### Image galleries
-
-Here's a really neat custom feature we added – galleries:
-
-<div class="gallery" data-columns="3">
-	<img src="/images/demo/demo-portrait.jpg">
-	<img src="/images/demo/demo-landscape.jpg">
-	<img src="/images/demo/demo-square.jpg">
-	<img src="/images/demo/demo-landscape-2.jpg">
-</div>
-
-Inspired by the Galleries feature from WordPress, we've made it easy to create grid layouts for your images. Just use a bit of simple HTML in your post to create a masonry grid image layout:
-
-```html
-<div class="gallery" data-columns="3">
-    <img src="/images/demo/demo-portrait.jpg">
-    <img src="/images/demo/demo-landscape.jpg">
-    <img src="/images/demo/demo-square.jpg">
-    <img src="/images/demo/demo-landscape-2.jpg">
-</div>
-```
-
-*See what we did there? Code and syntax highlighting is built-in too!*
-
-Change the number inside the 'columns' setting to create different types of gallery for all kinds of purposes. You can even click on each image to seamlessly enlarge it on the page.
-
----
-
-### Image carousels
-
-Here's another gallery with only one column, which creates a carousel slide-show instead.
-
-A nice little feature: the carousel only advances when it is in view, so your visitors won't scroll down to find it half way through your images.
-
-<div class="gallery" data-columns="1">
-	<img src="/images/demo/demo-landscape.jpg">
-	<img src="/images/demo/demo-landscape-2.jpg">
-</div>
-
-### What about videos?
-
-Videos are an awesome way to show off your work in a more engaging and personal way, and we’ve made sure they work great on our themes. Just paste an embed code from YouTube or Vimeo, and the theme makes sure it displays perfectly:
-
-<iframe src="https://player.vimeo.com/video/19536258?color=ffffff&title=0&byline=0&portrait=0" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
-
----
-
-## Pretty cool, huh?
-
-We've packed this theme with powerful features to show off your work. Why not put them to use on your new portfolio?
-
-<a href="https://jekyllthemes.io/theme/index-portfolio-jekyll-theme" class="button button--large">Get This Theme</a>
+A product is a living piece of the company. It should be improved on, and is always growing. Growth and iteration are imparitive to a good product and excellent design. 
