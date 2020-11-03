@@ -3,7 +3,7 @@ title: 'Design Process'
 subtitle: 'A deeper dive into the creation of products'
 date: 2019-06-30 
 description: UXflowcharts
-featured_image: 'images\UXflowchart.JPG'
+featured_image: 'images/UXflowchart.JPG'
 ---
 
 ## Overview
