@@ -3,7 +3,7 @@ title: 'Mobile App Mockup and Wireframe Examples'
 subtitle: 'Mobile Food Ordering App'
 date: 2019-06-30 
 description: Page that introduces wireframes and mockups of a mobile food ordering application.
-featured_image: 'images/mock.JPG'
+featured_image: 'images/foodAppThumbnail.JPG'
 ---
 
 ![](/images/demo/demo-landscape.jpg)
