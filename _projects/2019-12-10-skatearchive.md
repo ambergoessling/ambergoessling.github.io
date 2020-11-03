@@ -3,7 +3,7 @@ title: 'Skateboarding Collection Catalogue'
 subtitle: 'A place for deck collectors to unite'
 date: 2019-06-30 
 description: Project that highlights skateboard deck collecting
-featured_image: 'images\skateboardingHomeThumbnail.JPG.png'
+featured_image: 'images/skateboardingHomeThumbnail.JPG.png'
 ---
 
 ## Skateboarding Catalogue Collection (and Forum) Project
