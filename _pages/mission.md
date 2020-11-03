@@ -5,8 +5,6 @@ description: Amber Goessling's about page
 featured_image: /images/demo/demo-landscape.jpg
 ---
 
-![](/images/demo/demo-landscape.jpg)
-
 ## The Mission as a UX Designer
 
 <strong>Accessability</strong> - useable by all kinds of people. Is ADA Compliant.

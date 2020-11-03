@@ -1,96 +1,32 @@
 ---
-title: 'Skateboarding Collection Catalogue'
-subtitle: 'A place for deck collectors to unite'
+title: 'Examples of Wireframes and other ideas'
+subtitle: 'More examples are here'
 date: 2019-06-30 
-description: Project that highlights skateboard deck collecting
-featured_image: 'images\skateboardingHomeThumbnail.JPG.png'
+description: A page highlighting additional examples of ideas.
+featured_image: 'images/moreExamplesThumbnail.png'
 ---
 
-## Skateboarding Catalogue Collection (and Forum) Project
+![](/images/demo/demo-landscape.jpg)
 
-[Overview](#overview)
+## which page changed?
 
-[Design Cycle](#design-cycle)
+This page is a demo that shows everything you can do inside portfolio and blog posts.
 
-[Style Guide](#style-guide)
+We've included everything you need to create engaging posts about your work, and show off your case studies in a beautiful way.
 
-[Personas](#personas)
+**Obviously,** we’ve styled up *all the basic* text formatting options [available in markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet).
 
-[Sketch Wireframe Examples](#sketch-wireframe-examples)
+You can create lists:
 
-[Sitemap](#sitemap)
+* Simple bulleted lists
+* Like this one
+* Are cool
 
-[Workflows](#workflows)
+And:
 
-[Wireframes](#wireframes)
-
-[Mockups](#mockups)
-
-[Prototype](#prototype)
-
-[Testing](#testing)
-
-
-
-## Overview
-
-This project was born out of a love for skateboard deck collecting, and trying to keep track of when decks would go on sale through multiple sites. When creating this website, I did research on other skateboarding websites like, Sector 9, Vans, Primitive, and many more. 
-
-## Design Cycle
-
-<!---![UX FLowchart](/images/UXflowchart.JPG)--->
-
-<img src="/images/UXflowchart.JPG" alt="UX FLowchart" style="max-width: 900px">
-
-## Style Guide
-
-The style guide is a beginning sample of assets and color schemes used in producing this product.
-
-<!---![Style Guide](/images/Styleguide.png)--->
-
-<img src="/images/Styleguide.png" alt="style guide" style="max-width: 900px">
-
-## Personas
-
-## Sketch Wireframe Examples
-
-Here are examples of the first few pages of the design process of brainstorming. Designing what pages would look like for the layout, and describing light functionality.
-
-<!---![Sketch Wireframe Examples](/images/sketchWireframeExample.jpg)--->
-
-<img src="/images/sketchWireframeExample.jpg" alt="Sketch Wireframe Examples" style="max-width: 900px">
-
-## Sitemap
-
-Every website needs a basic sitemap (at least behind the scenes). Honestly, I used this to help organize my thoughts for the workflows and make sure I had all the pages accounted for.
-
-<!---![Sitemap](/images/Sitemap.JPG)--->
-
-<img src="/images/Sitemap.JPG" alt="Sitemap" style="max-width: 900px">
-
-## Workflows
-
-Users can have multiple workflows on this site. The diagram below highlights the "happy path" and intended workflows. When this product gets more testing in the prototyping phase, then we can see which workflows feel most intuitive for users. 
-
-<!---![User Workflows](/images/UserWorkflows.jpg)--->
-
-<img src="/images/UserWorkflows.jpg" alt="User Workflows" style="max-width: 900px">
-
-## Wireframes
-
-<!---![Wireframes](/images/wireframeCollection.png)--->
-
-<img src="/images/wireframeCollection.png" alt="Wireframes" style="max-width: 900px">
-
-## Mockups
-
-<!---![Mockups](/images/mockupCollection.png)--->
-
-<img src="/images/mockupCollection.png" alt="Mockups" style="max-width: 900px">
-
-## Prototype
-Seen here is a prototype of all the mockups interacting together. 
-<iframe src="https://y9cg5q.axshare.com" width="2000px" height="1080px">
+1. Numbered lists
+2. Like this other one
+3. Are great too
 
 You can also add blockquotes, which are shown at a larger width to help break up the layout and draw attention to key parts of your content:
 

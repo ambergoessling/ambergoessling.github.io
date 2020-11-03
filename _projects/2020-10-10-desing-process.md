@@ -1,9 +1,9 @@
 ---
-title: 'Skateboarding Collection Catalogue'
-subtitle: 'A place for deck collectors to unite'
+title: 'Design Process'
+subtitle: 'A deeper dive into the creation of products'
 date: 2019-06-30 
-description: Project that highlights skateboard deck collecting
-featured_image: 'images\skateboardingHomeThumbnail.JPG.png'
+description: UXflowcharts
+featured_image: 'images\UXflowchart.JPG'
 ---
 
 ## Skateboarding Catalogue Collection (and Forum) Project
