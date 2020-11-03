@@ -5,13 +5,13 @@ description: Amber Goessling's about page
 featured_image: 'images/AmberGoesslingGogh.JPG'
 ---
 
-![](images\AmberGoesslingGogh.JPG)
+![Profile Picture](images\AmberGoesslingGogh.JPG)
 
 ## Hello There -- I'm Amber Goessling
 
 I am a life long artist and learner. I am passionate about art, design, and how users interact with these elements. From museums to websites, everyone interacts with designs daily to complete their day.
 
-Originally having a foundation art, I pursued Art Education, however my career journey did not stop there, as I continued to expand on my hobby User Design. With my interest in User Design, I created many websites for friends, educators, and even for the University of Wisconsin system. To further my learning I took many online classes, and continue to learn about new UX design, testing techniques, and strategies to engage users with content.
+Originally having a passion for art, I pursued Art Education, however my career journey did not stop there, as I continued to expand on my hobby User Design. With my interest in User Design, I created many websites for friends, educators, and even for the University of Wisconsin system. To further my learning I took many online classes, and continue to learn about new UX design, testing techniques, and strategies to engage users with content.
 
 User Experience isn't all about me though. It's about _You_ the user, and how your interpretation of what is presented. Empathy, compassion, and realtional design help navigate even the most complex sites. Anything can be turned into a positive user experience with the proper guideance. 
 
@@ -37,7 +37,8 @@ If you're still reading, here are some more of my hobbies:
 
 <strong>Running</strong> -- I run a few times a week, I enjoy taking in the weather and listening to music.
 
-<strong>Art</strong> -- I create art, as well as visit it in locations all around. I spend weekends on my iPad digitally creating images stuck in my head, but when I need inspiration I just go to my favorite museums (<a href="https://chazen.wisc.edu/" >The Chazen</a> and <a href="https://mam.org/">The Milwaukee Art Museum</a>.)
+<strong>Art</strong> -- I create art, as well as visit it in locations all around. I spend weekends on my iPad digitally creating images stuck in my head, but when I need inspiration I just go to my favorite museums (<a href="https://chazen.wisc.edu/" >The Chazen</a> and <a href="https://mam.org/">The Milwaukee Art Museum</a>).
 
 <strong>Being a corgi owner</strong> -- I told myself I wouldn't be a typical dog mom, but I couldn't help it. I have a 2 year old corgi and she is my life. We go on a lot of adventures together and she brings sunshine into whatever room she enters!
 
+![Lucy the Corgi](images\lucygoosey.JPG)
