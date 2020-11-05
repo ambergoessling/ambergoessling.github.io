@@ -42,6 +42,7 @@ This project was born out of a love for skateboard deck collecting, and trying t
 
 <img src="/images/UXflowchart.JPG" alt="UX FLowchart" style="max-width: 900px">
 
+
 ## Style Guide
 
 The style guide is a beginning sample of assets and color schemes used in producing this product.
@@ -87,6 +88,16 @@ Users can have multiple workflows on this site. The diagram below highlights the
 <!---![Mockups](/images/mockupCollection.png)--->
 
 <img src="/images/mockupCollection.png" alt="Mockups" style="max-width: 900px">
+
+## Prototype
+
+Prototype includes interactive pages and sections. Here is the <a href="https://y9cg5q.axshare.com"> Axure Link </a>
+
+## Testing
+
+This is a very new project I wanted to present, and it unfortunately does not have any testing right now. However, I plan to use data from surveys and AB testing to flesh out the design further.
+
+
 
 <!---## Prototype
 Prototype includes interactive pages and sections. Here is the <a href="https://y9cg5q.axshare.com"> Axure Link </a>

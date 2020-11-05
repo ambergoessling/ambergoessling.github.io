@@ -11,16 +11,16 @@ featured_image: 'images/AmberGoesslingGogh.JPG'
 
 I am a life long artist and learner. I am passionate about art, design, and how users interact with these elements. From museums to websites, everyone interacts with designs daily to complete their day.
 
-Originally having a passion for art, I pursued Art Education, however my career journey did not stop there, as I continued to expand on my hobby User Design. With my interest in User Design, I created many websites for friends, educators, and even for the University of Wisconsin system. To further my learning I took many online classes, and continue to learn about new UX design, testing techniques, and strategies to engage users with content.
+Originally having a devotion for art, I pursued Art Education, however my career journey did not stop there, as I continued to expand on my hobby User Design. With my interest in User Design, I created many websites for friends, educators, and even for the University of Wisconsin system. To further my learning I took many online classes, and continue to learn about new UX design, testing techniques, and strategies to engage users with content.
 
-User Experience isn't all about me though. It's about _You_ the user, and how your interpretation of what is presented. Empathy, compassion, and realtional design help navigate even the most complex sites. Anything can be turned into a positive user experience with the proper guideance. 
+User Experience isn't all about me though. It's about _you_ the user, and how your interpretation of what is presented. Empathy, compassion, and realtional design help navigate even the most complex sites. Anything can be turned into a positive user experience with the proper guideance. 
 
 <hr>
 
 ## Experience 
 
 * Product Designer at a top ranking INC 5000 company (ranked number 1 in 2018)
-* Still learning new UX and UI practices through Udemy and signed up for Google UX certification when available
+* Always learning new UX and UI practices through credible sources
 * Redesigning and maintaining multiple sites in the University of Wisconsin - Madison and Whitewater 
 * Designed AR game around the University of Wisconsin - Whitewater needs for student exploration around campus
 * Art Degree (With emphasis on education) -- I took onver 30 art and design classes and a few programming classes during my bachelors degree career. I also got to study humans, their interactions with content presented to them and how they used this knowledge to progress further in their lives. This includes designing learning strategies to help them have the most intuitive and fruitful learning experience possible. 

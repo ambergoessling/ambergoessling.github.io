@@ -7,7 +7,7 @@ featured_image: /images/demo/demo-landscape.jpg
 
 ## The Mission as a UX Designer
 
-<strong>Accessability</strong> - useable by all kinds of people. Is ADA Compliant.
+<strong>Accessability</strong> - Usable by all kinds of people. Is ADA Compliant.
 
 <strong>Usability</strong> - Design is made to be in intuitive experience. Using best practices that capture the product and all its intentions.
 
