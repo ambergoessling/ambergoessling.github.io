@@ -41,4 +41,4 @@ If you're still reading, here are some more of my hobbies:
 
 <strong>Being a corgi owner</strong> -- I told myself I wouldn't be a typical dog mom, but I couldn't help it. I have a 2 year old corgi and she is my life. We go on a lot of adventures together and she brings sunshine into whatever room she enters!
 
-![Lucy the Corgi](images\lucygoosey.JPG)
+![Lucy the Corgi](images/lucygoosey.JPG)
