@@ -13,12 +13,11 @@ menu_settings:
       url: '/'
     - title: 'Mission Statement'
       url: '/mission'
-    - title: 'Blog'
-      url: '/blog/'
+    - title: 'Design Process'
+      url: '/design/'
     - title: 'About'
       url: '/about'
-    - title: 'Contact'
-      url: '/contact'
+
 
 grid_settings:
   overlay_opacity: 0.8

@@ -1,7 +1,7 @@
 ---
-title: 'Design Process'
+title: 'The Design Process'
 subtitle: 'A deeper dive into the creation of products'
-date: 2019-06-30 
+date: '2020-01-01' 
 description: UXflowcharts
 featured_image: 'images/UXflowchart.JPG'
 ---
