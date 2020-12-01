@@ -97,6 +97,9 @@ Users can have multiple workflows on this site. The diagram below highlights the
 
 Prototype includes interactive pages and sections. Here is the <a href="https://y9cg5q.axshare.com"> Axure Link </a>
 
+Note: 
+There are only certain clickable sections available in this prototype. You can highlight those options by accessing the hamburger menu within the browser for Axure.
+
 ## Testing
 
 This is a very new project I wanted to present, and it unfortunately does not have any testing right now. However, I plan to use data from surveys and AB testing to flesh out the design further.
