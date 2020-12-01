@@ -1,11 +1,12 @@
 ---
-title: Mission Statement
+title: ' '
 subtitle: 
 description: Amber Goessling's about page
 featured_image: /images/demo/demo-landscape.jpg
 ---
 
-## The Mission as a UX Designer
+## My Mission as a UX Designer
+<hr>
 
 <strong>Accessability</strong> - Usable by all kinds of people. Is ADA Compliant.
 

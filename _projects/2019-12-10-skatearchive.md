@@ -53,6 +53,10 @@ The style guide is a beginning sample of assets and color schemes used in produc
 
 ## Personas
 
+<img src="/images/Personas.PNG" alt="personas" style="max-width: 900px">
+
+These three personas represent a summary of data samples from surveys I sent out regarding interest in a comprehensive skateboard collecting site.
+
 ## Sketch Wireframe Examples
 
 Here are examples of the first few pages of the design process of brainstorming. Designing what pages would look like for the layout, and describing light functionality.
