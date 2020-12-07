@@ -14,7 +14,7 @@ menu_settings:
     - title: 'Mission Statement'
       url: '/mission'
     - title: 'Design Process'
-      url: '/design/'
+      url: '/design'
     - title: 'About'
       url: '/about'
 
