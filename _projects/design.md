@@ -8,7 +8,7 @@ featured_image: 'images/UXflowchart.JPG'
 
 ## Overview
 
-The design process is so much more than following point A to B. Sometimes you take twists, turns, and really you use the process as a guideline to make sure you have what the product needs to be successful. Designing products, websites, and projects is iterative. It takes persistance, determination, and empathy to make sure the user is happy with what the product is offering. Having a product be intuitive is an art by itself, and takes quite a bit of hard work from the design team. 
+The design process is so much more than following from point A to B. Sometimes you take twists, turns, and really you use the process as a guideline to make sure you have what the product needs to be successful. Designing products, websites, and projects is iterative. It takes persistance, determination, and empathy to make sure the user is happy with what the product is offering. Having a product be intuitive is an art by itself, and takes quite a bit of hard work from the design team. 
 
 ## Design Cycle
 

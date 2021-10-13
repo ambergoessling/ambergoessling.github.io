@@ -1,5 +1,5 @@
 ---
-title: 'Skateboarding Collection Catalogue'
+title: 'Skateboarding Collection Catalog'
 subtitle: 'A place for deck collectors to unite'
 date: 2019-06-30 
 description: Project that highlights skateboard deck collecting
